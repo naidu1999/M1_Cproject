@@ -36,3 +36,7 @@
 * github workflows
 * build - windows and linux
 * code quality - online tools 
+
+
+*needed to be done
+* certificates
